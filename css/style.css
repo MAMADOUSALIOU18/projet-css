@@ -1,0 +1,58 @@
+body{
+    margin: 0px ;
+}
+    header{
+    display: flex;
+    text-transform: capitalize;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    
+}
+header ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+}
+.apropos{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+}
+.travail{
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+}
+.cv{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+}
+.contact{
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 20px;
+}
+form{
+    margin: 25px;
+    background-color: salmon;
+    padding: 20px 350px;
+    margin: 20px 200px;
+    font-family: 'Roboto', sans-serif;
+
+}
+img{
+    margin: 25px;
+}
+ul li{
+    list-style: none;
+}
